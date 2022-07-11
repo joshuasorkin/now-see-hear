@@ -1,0 +1,8 @@
+.DS_STORE
+node_modules
+npm-debug.log*
+*.env
+*.sql
+*.dump
+*.sh
+*.ignore
